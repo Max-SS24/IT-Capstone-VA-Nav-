@@ -1,6 +1,6 @@
 # VA Coach
-
-Figma-generated React/Vite frontend for the VA Coach application.
+Frontend for the VA Coach application
+Genearated using figma
 
 ## Local development
 
