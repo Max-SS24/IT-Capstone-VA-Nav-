@@ -1,6 +1,7 @@
 # VA Coach
 Frontend for the VA Coach application
-Genearated using figma
+
+Generated using Figma
 
 ## Local development
 
