@@ -1,0 +1,8 @@
+{
+  "name": "forward-together-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"node --watch server.js","start":"node server.js"},
+  "dependencies": {"cors":"latest","dotenv":"latest","express":"latest","helmet":"latest","express-rate-limit":"latest"}
+}
